@@ -5,10 +5,11 @@
 ## **Election-Audit Results:**
 - This congressional election had **369,711** votes casted.
 - Please review the following image regarding the breakdown of county votes and percentages.
-![alttext](countybreak.png)
+![alttext]()
 - Based on the image above, the county with the largest number of votes is Denver County. 
 - Below is a breakdown of the number of votes each candidate recieved:
-![alttext](canbreak.png)
+
+![alttext](https://github.com/ValJohns/Election_analysis/blob/main/analysis/canbreak.png)
 - below is a breakdown of the proposed winner from the congressional election:
 ![alttext](winnercan.png)
 
